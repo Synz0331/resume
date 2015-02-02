@@ -1,2 +1,11 @@
 h3 Portfolio
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Project
+      th Description
+  tbody
+  each port in contents['portfolio.json'].metadata     
+    tr
+      td= port.project
+      td= port.desc

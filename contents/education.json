@@ -1,1 +1,22 @@
-[]
+[
+	{
+		"name": "Farragut High School",
+		"years": 4,
+		"degree": "High School Diploma"
+	},
+	{
+		"name": "King College",
+		"years": 2,
+		"degree": "Transferred"
+	},
+	{
+		"name": "University of Tennessee in Knoxville",
+		"years": 2.5,
+		"degree": "Bachelors of Arts in Communication Studies"
+	},
+	{
+		"name": "University of Colorado in Boulder",
+		"years": 1.5,
+		"degree": "Currently seeking BA in Computer Science. Graduate school applicant for Computer Science"
+	}
+]

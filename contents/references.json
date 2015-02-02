@@ -1,1 +1,17 @@
-[]
+[
+	{	
+		"name": "Dr. Elizabeth White",
+		"title": "Former University of Colorado Instructor",
+		"contact": "ThisIsDrWhiteEmail@Domain.com"
+	},
+	{
+		"name": "Master Gunnery Sergeant Andy Anderson",
+		"title": "Former 3rd Battalion 3rd Marines Weapons Company Operations Chief",
+		"contact": "ThisIsMsGySgtAnderson@Domain.com"
+	},
+	{
+		"name": "Dr. Daniel Eakins",
+		"title": "Lecturer of Shock Physics at Imperial College, London",
+		"contact": "ThisIsDrEakins@Domain.com"
+	}
+]

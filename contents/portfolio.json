@@ -1,1 +1,18 @@
-[]
+[
+	{
+		"project": "SPOOOKS",
+		"desc": "A four student team designed and created defense game developed in Unity and C# with art imported from Blender"
+	},
+	{
+		"project": "Student Wiki",
+		"desc": "Creating a student driven website to help introductory students learn and understand the syntax of C++ and Python by removing as much jargon as possible when explaining concepts."
+	},
+	{
+		"project": "Student Project Game",
+		"desc": "A two student team designing and creating a sci-fi based, tactical RPG in Unity and C#."
+	},
+	{
+		"project": "Coding Challenges",
+		"desc": "Participated in the Microsoft Coding Challenge, September of 2014.  Participated in the HackerRank Back2School Coding Challenge, September of 2014."
+	}
+]
